@@ -9,4 +9,5 @@
 7.Mokker换背景包括背光\
 8.Runway清理video\
 9.murfAI选择语言语音配音\
-10.Bhuman制作个性化小video
+10.Bhuman制作个性化小video\
+11.Midjourney AI作图
