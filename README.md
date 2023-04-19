@@ -11,3 +11,4 @@
 9.murfAI选择语言语音配音\
 10.Bhuman制作个性化小video\
 11.Midjourney AI作图
+12.Cursor https://www.cursor.so/
