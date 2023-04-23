@@ -10,5 +10,7 @@
 8.Runway清理video\
 9.murfAI选择语言语音配音\
 10.Bhuman制作个性化小video\
-11.Midjourney AI作图\
+11.Midjourney AI作图
+- https://zhuanlan.zhihu.com/p/622751562
+
 12.Cursor https://www.cursor.so/
