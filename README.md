@@ -13,5 +13,5 @@
 11.Midjourney AI作图
 - https://zhuanlan.zhihu.com/p/622751562
 
-12.Cursor https://www.cursor.so/\
+12.Cursor https://www.cursor.so \
 13.heygen AI VIDEO https://app.heygen.com/
